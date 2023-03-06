@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: 'Rasa', serif;
+  font-weight: 300;
+  margin: 0;
+}
+
+.image{
+  padding: 35px;
+  width: 300px;
+  height:300px;
+  border-radius: 20%;
+  
+  
+}
+
+.name{
+  padding :0px;
+  margin-top: auto;
+  color: blueviolet;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  }
+
+  .adress{
+    color: purple;
+  }
